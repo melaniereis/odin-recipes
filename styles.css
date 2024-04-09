@@ -32,4 +32,6 @@ h1, h2 {
     margin-right: auto;
 }
 
-
+a:link, a:visited {
+    color: white;
+}
