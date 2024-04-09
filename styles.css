@@ -1,0 +1,24 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+
+h1, ol{
+    background-color: beige;
+    padding: auto;
+    display: block;
+}
+
+.menu{
+    display: inline-block;
+}
+
